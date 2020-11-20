@@ -3,7 +3,6 @@ const poefButton = document.querySelector('#poef');
 let poefAan = false;
 
 poefButton.addEventListener('click', function () {
-
     if(!poefAan){
         console.log("in paf");
         poefButton.innerText = "PAF";

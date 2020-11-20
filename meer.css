@@ -1,5 +1,15 @@
 .midtext{
     text-align: center;
-    margin-top: 100px;
+    margin-top: 220px;
     font-size: 100;
+}
+
+.motifilm{
+    width: 50%;
+    
+}
+p{ 
+    width: 50%;
+    text-align: center;
+    margin-left: 25%;
 }

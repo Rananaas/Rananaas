@@ -1,0 +1,78 @@
+body {
+    line-height: 1.5;
+
+
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    color:#2c2c2c;
+  }
+  #bodyfull{ 
+    background-color: #fcfcfc;
+  }
+  
+
+.pinky{ 
+    background-color: #ff5f5f;
+    color:  #2c2c2c;
+    position: relative;
+
+}
+
+.ralefont{ 
+    font-family: 'Raleway', sans-serif;
+}
+
+.normalfont{ 
+    font-family: 'Raleway', sans-serif;
+    font-weight:100;
+}
+.subtitle{ 
+    margin-top: 20px;
+}
+
+#naviRani{ 
+    background-color: #ff5f5f;
+    height: 50px;
+    
+
+}
+
+#naviRani .nav-link{ 
+    font-family: 'Raleway', sans-serif;
+    color: #2c2c2c;
+    align-items: center;
+    text-decoration: none;
+    
+}
+#naviRani .nav-link:hover{ 
+    color: #83ffe6;
+
+}
+
+#wrapDiv{ 
+    /* background-color: green;
+    opacity: 50%; */
+
+}
+#footer{ 
+    position: relative;
+    display: flex;
+    margin-top: 650px;
+    background-color: #fcfcfc;
+} 
+
+@media only screen and (max-width: 1000px) {
+    #footer {
+        position: relative;
+        display: flex;
+        margin-top: 100px;
+
+       
+    } 
+    }
+
+    #navbarNav{ 
+        background-color:#ff5f5f;
+
+        padding: -50px;
+    }

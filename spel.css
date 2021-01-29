@@ -1,0 +1,98 @@
+#block1{ 
+    background-color:#d06fff;
+    background-image: url("images/spel/cijfersysteemBW.png");
+    background-position: center;
+    background-size: cover;
+}
+#block2{ 
+    background-color: #76b9e6 ;
+    background-image: url("images/spel/verbeeldcaptureBW.png");
+    background-position: center;
+    background-size: cover;
+}
+#block3{ 
+    background-color:#d06fff;
+    background-image: url("images/spel/atotzSSBW.png");
+    background-position: center;
+    background-size: cover;
+}
+#block4{ 
+    background-color: #76b9e6 ;
+    background-image: url("images/spel/Chess_opsteling2.png");
+    background-size: cover;
+}
+#block5{ 
+    background-color:#d06fff;
+    background-image: url("images/spel/cyber/BWversions/cyber11bw.png");
+    background-size: cover;
+}
+#block6{ 
+    background-color: #76b9e6 ;
+    background-image: url("images/spel/challangeday2BW.png");
+    background-size: cover;
+}
+#block7{ 
+    background-color:#d06fff;
+    background-image: url("images/spel/woorden/gesprekBW.png");
+    background-position: center;
+    background-size: cover;
+}
+#block8{ 
+    background-color: #76b9e6 ;
+    background-image: url("images/electricBW.png");
+    background-size: cover;
+}
+#block9{ 
+    background-color:#d06fff;
+    background-image: url("images/spel/netwerkenikBW.png");
+    background-position: center;
+    background-size: cover;
+}
+
+#block10{ 
+    background-color: #76b9e6;
+    background-image: url("images/pipsdradenBW.png");
+    background-position: center;
+    background-size: cover;
+}
+#block11{ 
+    background-color: #d06fff;
+    background-image: url("images/spel/cocoBW.png");
+    background-size: cover;
+}
+#block12{ 
+    background-color:#76b9e6;
+    background-image: url("images/spel/stopandmotionBW.png");
+    background-position: center;
+    background-size: cover;
+}
+
+.portfolioblock{ 
+    line-height: 400px;
+}
+
+#block1:hover, #block2:hover, #block3:hover,
+#block4:hover, #block5:hover, #block6:hover,
+#block7:hover, #block8:hover, #block9:hover,
+#block10:hover, #block11:hover, #block12:hover
+{ 
+    background-color: #ffd55a;
+}
+
+
+/* ///spelmodals/// */
+
+#spel1Modal, #spel2Modal, #spel3Modal, #spel4Modal, #spel5Modal, 
+#spel7Modal, #spel10Modal{ 
+    color: black;
+}
+.modal-content{
+    background-color: #ffd55a;
+    opacity: 0.9;
+    border-color: black;
+    border-width: 8px;
+    border-radius: 20px;
+}
+.modalfilm{ 
+    width: 100%;
+}

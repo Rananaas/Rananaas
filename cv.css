@@ -1,5 +1,68 @@
-#resume {
+#leftbackcv{ 
+    background-color:#d06fff;
+    /* background-image: url("images/spel/Chess_opsteling2.png"); */
+    background-size: cover;
+    
+
+}
+/* #leftbackcv:hover{ 
+    background-color: #ffd55a;
+
+} */
+
+#rightbackcv{ 
+    background-color: #76b9e6 ;
+    background-image: url("images/illustratie/fishesNoCats-01BW.png");
+    background-size: cover;
+    text-align: center;
+    line-height: 400px;
+}
+
+/* #rightbackcv:hover{ 
+    background-color: #ffd55a;
+
+} */
+#homebanner{ 
+    height: 100px;
+    line-height: 100px;
+}
+#homebanner:hover{ 
+    color: #76b9e6; 
+
+}
+
+body{ 
+    background-color: #ffd55a;
+}
+
+.homerow{ 
+    height: 600px;
+}
+#rightimagecv{ 
     width: 100%;
-    height: 100%;
-    background-size: contain;
-  }
+    object-fit:cover; 
+
+}
+#nav1:hover, #nav2:hover, #nav3:hover,
+#nav4:hover{ 
+    color: #76b9e6; 
+}
+
+/* ///cvmodal/// */
+
+#cvModal{ 
+    color: black;
+}
+.modal-content{
+    background-color: #ffd55a;
+    opacity: 0.9;
+    border-color: black;
+    border-width: 8px;
+    border-radius: 20px;
+}
+.modalfilm{ 
+    width: 100%;
+}
+#klikhiervoorcv:hover{ 
+    color: #ffd55a;
+}

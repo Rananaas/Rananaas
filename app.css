@@ -1,77 +1,48 @@
-body {
-    line-height: 1.5;
-    font-family: 'Raleway', sans-serif;
-    font-weight: 700;
-    color:#2c2c2c;
-  }
-  #bodyfull{ 
-    background-color: #fcfcfc;
-  }
-  
+#leftback{ 
+    background-color:#d06fff;
+    line-height: 600px;
+    background-image: url("images/spel/Chess_opsteling2.png");
+    background-size: cover;
 
-.pinky{ 
-    background-color: #ff5f5f;
-    color:  #2c2c2c;
-    position: relative;
+}
+#leftback:hover{ 
+    background-color: #ffd55a;
 
 }
 
-.ralefont{ 
-    font-family: 'Raleway', sans-serif;
+#rightback{ 
+    background-color: #76b9e6 ;
+    line-height: 600px;
+    background-image: url("images/illustratie/fishesNoCats-01BW.png");
+    background-size: cover;
 }
 
-.normalfont{ 
-    font-family: 'Raleway', sans-serif;
-    font-weight:100;
-}
-.subtitle{ 
-    margin-top: 20px;
-}
+#rightback:hover{ 
+    background-color: #ffd55a;
 
-#naviRani{ 
-    background-color: #ff5f5f;
-    height: 50px;
-    
 
 }
-
-#naviRani .nav-link{ 
-    font-family: 'Raleway', sans-serif;
-    color: #2c2c2c;
-    align-items: center;
-    text-decoration: none;
-    
+#homebanner{ 
+    height: 100px;
+    line-height: 100px;
 }
-#naviRani .nav-link:hover{ 
-    color: #83ffe6;
-
+#homebanner:hover, #zoekwerkbanner:hover{ 
+    color: #76b9e6; 
 }
 
-#wrapDiv{ 
-    /* background-color: green;
-    opacity: 50%; */
+body{ 
+    background-color: #ffd55a;
+}
+
+.homerow{ 
+    height: 600px;
+}
+#rightimage{ 
+    width: 100%;
+    object-fit:cover; 
 
 }
-#footer{ 
-    position: relative;
-    display: flex;
-    margin-top: 750px;
-    background-color: #fcfcfc;
-} 
-
-@media only screen and (max-width: 1000px) {
-    #footer {
-        position: relative;
-        display: flex;
-        margin-top: 100px;
-
-       
-    } 
-    }
-
-    #navbarNav{ 
-        background-color:#ff5f5f;
-
-        padding: -50px;
-    }
-
+#nav1:hover, #nav2:hover, #nav3:hover,
+#nav4:hover{ 
+    color: #76b9e6; 
+}

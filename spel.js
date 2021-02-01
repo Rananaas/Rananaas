@@ -16,5 +16,5 @@ $('#spel7Modal').on('hidden.bs.modal', function () {
 $('spel2Modal').on('hidden.bs.modal', function(){ 
     $('#movieinmodal2a')[0].pause();
     $('#movieinmodal2b')[0].pause();
-    $('#movieinmodal2c')[0].pause()
+    $('#movieinmodal2c')[0].pause();
 });
